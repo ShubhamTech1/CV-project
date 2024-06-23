@@ -1,4 +1,4 @@
-# DL-project--4
+# CV-project
 computer vision- image classification
 
 Questionnaire - Machine Learning Internship
